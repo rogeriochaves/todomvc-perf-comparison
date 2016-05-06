@@ -14,7 +14,7 @@
 
   :source-paths ["src"]
 
-  :cljsbuild { 
+  :cljsbuild {
     :builds [{:id "dev"
               :source-paths ["src"]
               :compiler {
